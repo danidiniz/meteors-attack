@@ -1,2 +1,2 @@
 # meteors-attack
-Game made in Unity3D by me
+Game made by me in Unity3D
